@@ -1,3 +1,3 @@
-# electron-poc-releases
+# cc-toolbar-releases
 
-Testing whether it's possible to have a public repo with just the releases and the code in a private repo
+Releases are hosted in this repo so they can be fetched by the auto-updater. See the [cc-toolbar README](https://github.com/ConsultantConnect/cc-toolbar/blob/main/README.md) for details. 
